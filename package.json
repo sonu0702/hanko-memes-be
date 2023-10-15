@@ -1,0 +1,46 @@
+{
+  "name": "hanko-memes-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "netlify dev --inspect",
+    "test-register-user-event": "node tests/register-user-event.js",
+    "test-fetch-txn-history": "node tests/fetch-txn-history.js",
+    "test-fetch-wallet-balance": "node tests/fetch-wallet-balance.js",
+    "test-user-auth": "node tests/user-auth.js",
+    "fetch-user-context": "node tests/fetch-user-context.js",
+    "fetch-user-profile": "node tests/fetch-profile.js",
+    "test-update-socials": "node tests/update-social.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonu0702/hanko-memes-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonu0702/hanko-memes-be/issues"
+  },
+  "homepage": "https://github.com/sonu0702/hanko-memes-be.git#readme",
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.48.0",
+    "@supabase/supabase-js": "^1.29.1",
+    "axios": "^0.25.0",
+    "btoa": "^1.2.1",
+    "netlify": "^11.0.1",
+    "netlify-cli": "^10.0.0",
+    "oauth-1.0a": "^2.2.6",
+    "qs": "^6.10.3",
+    "query-string": "^7.1.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.12",
+    "winston": "^3.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "husky": "^7.0.0",
+    "lint-staged": "^12.3.4",
+    "prettier": "2.5.1"
+  }
+}
