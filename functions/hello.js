@@ -48,7 +48,3 @@ exports.handler = async function (event, context) {
     return utils.fetchErrorResponse(error);
   }
 };
-
-async function FetchDateWisePebbleDistribution() {
-  const allUsersWalletBalances = await wallet.fetchAllUsersWalletBalance();
-}

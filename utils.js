@@ -2,7 +2,10 @@ const errors = require("./errors");
 const logger = require("./logger");
 const crypto = require("crypto");
 const axios = require("axios");
-
+const jwt = require('jsonwebtoken');
+const jwksClient = require('jwks-rsa');
+const dotenv = require('dotenv');
+dotenv.config();
 const headers = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers": "*",
@@ -14,7 +17,7 @@ module.exports = {
     for (let x in param_list) {
       if (args[param_list[x]] == null) {
         throw new Error(
-          JSON.stringify({ msg: "Missing params.", type: errors.BAD_REQUEST })
+          JSON.stringify({ msg: "Missing params.", type: errors.BAD_eventUEST })
         );
       }
     }
@@ -44,7 +47,7 @@ module.exports = {
         status = 500;
         // message = message.msg;
         break;
-      case errors.BAD_REQUEST:
+      case errors.BAD_eventUEST:
         status = 400;
         // message = message.msg;
         break;
@@ -101,5 +104,18 @@ module.exports = {
     let to = page ? from + size - 1 : size - 1;
     console.log(`to`, to);
     return { from, to };
+  },
+  authenticatedUserId: async (event) => {
+    if (
+      event.headers.authorization &&
+      event.headers.authorization.split(" ")[0] === "Bearer"
+    ) {
+      let token = event.headers.authorization.split(" ")[1];
+      let client = jwksClient({ jwksUri: `${process.env.HANKO_API_URL}/.well-known/jwks.json` })
+      let signkey = await client.getSigningKey()
+      let publicKey = signkey.getPublicKey();
+      let verified = jwt.verify(token, publicKey, {})
+      return verified.sub;
+    }
   }
 };
