@@ -1,0 +1,666 @@
+[
+    {
+        "top_caption": "When you open the fridge at night.",
+        "bottom_caption": "But only find vegetables."
+    },
+    {
+        "top_caption": "When someone asks for directions.",
+        "bottom_caption": "And you barely know your own way."
+    },
+    {
+        "top_caption": "When your crush texts you.",
+        "bottom_caption": "And it's just 'Hi'."
+    },
+    {
+        "top_caption": "When you start a new diet.",
+        "bottom_caption": "And see your favorite pizza."
+    },
+    {
+        "top_caption": "When you get a new phone.",
+        "bottom_caption": "And you drop it on day one."
+    },
+    {
+        "top_caption": "When you think you aced the test.",
+        "bottom_caption": "But get the lowest score."
+    },
+    {
+        "top_caption": "When you try to parallel park.",
+        "bottom_caption": "And it takes 20 minutes."
+    },
+    {
+        "top_caption": "When you see your ex.",
+        "bottom_caption": "Looking better than ever."
+    },
+    {
+        "top_caption": "When you find money in your pocket.",
+        "bottom_caption": "And it's just a receipt."
+    },
+    {
+        "top_caption": "When you wake up early.",
+        "bottom_caption": "On a Saturday."
+    },
+    {
+        "top_caption": "When you're on a diet.",
+        "bottom_caption": "And your friend offers you cake."
+    },
+    {
+        "top_caption": "When you buy a new plant.",
+        "bottom_caption": "And it dies within a week."
+    },
+    {
+        "top_caption": "When you're about to sneeze.",
+        "bottom_caption": "But it disappears."
+    },
+    {
+        "top_caption": "When you're in the shower.",
+        "bottom_caption": "And the hot water runs out."
+    },
+    {
+        "top_caption": "When you're at a party.",
+        "bottom_caption": "And the WiFi is down."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And the only treadmill is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    },
+    {
+        "top_caption": "When you're trying to impress someone.",
+        "bottom_caption": "And you trip and fall."
+    },
+    {
+        "top_caption": "When you're at the doctor's office.",
+        "bottom_caption": "And they can't find your vein."
+    },
+    {
+        "top_caption": "When you're trying to save money.",
+        "bottom_caption": "And there's a sale at your favorite store."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And all the equipment is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    },
+    {
+        "top_caption": "When you're trying to impress someone.",
+        "bottom_caption": "And you trip and fall."
+    },
+    {
+        "top_caption": "When you're at the doctor's office.",
+        "bottom_caption": "And they can't find your vein."
+    },
+    {
+        "top_caption": "When you're trying to save money.",
+        "bottom_caption": "And there's a sale at your favorite store."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And all the equipment is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    },
+    {
+        "top_caption": "When you're trying to impress someone.",
+        "bottom_caption": "And you trip and fall."
+    },
+    {
+        "top_caption": "When you're at the doctor's office.",
+        "bottom_caption": "And they can't find your vein."
+    },
+    {
+        "top_caption": "When you're trying to save money.",
+        "bottom_caption": "And there's a sale at your favorite store."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And all the equipment is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    },
+    {
+        "top_caption": "When you're trying to impress someone.",
+        "bottom_caption": "And you trip and fall."
+    },
+    {
+        "top_caption": "When you're at the doctor's office.",
+        "bottom_caption": "And they can't find your vein."
+    },
+    {
+        "top_caption": "When you're trying to save money.",
+        "bottom_caption": "And there's a sale at your favorite store."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And all the equipment is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    },
+    {
+        "top_caption": "When you're trying to impress someone.",
+        "bottom_caption": "And you trip and fall."
+    },
+    {
+        "top_caption": "When you're at the doctor's office.",
+        "bottom_caption": "And they can't find your vein."
+    },
+    {
+        "top_caption": "When you're trying to save money.",
+        "bottom_caption": "And there's a sale at your favorite store."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And all the equipment is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    },
+    {
+        "top_caption": "When you're trying to impress someone.",
+        "bottom_caption": "And you trip and fall."
+    },
+    {
+        "top_caption": "When you're at the doctor's office.",
+        "bottom_caption": "And they can't find your vein."
+    },
+    {
+        "top_caption": "When you're trying to save money.",
+        "bottom_caption": "And there's a sale at your favorite store."
+    },
+    {
+        "top_caption": "When you're at the gym.",
+        "bottom_caption": "And all the equipment is taken."
+    },
+    {
+        "top_caption": "When you tell a joke.",
+        "bottom_caption": "And no one laughs."
+    },
+    {
+        "top_caption": "When you order a salad.",
+        "bottom_caption": "And it's mostly lettuce."
+    },
+    {
+        "top_caption": "When you set an alarm.",
+        "bottom_caption": "And you wake up before it goes off."
+    },
+    {
+        "top_caption": "When you're in a hurry.",
+        "bottom_caption": "And all the traffic lights are red."
+    },
+    {
+        "top_caption": "When you're looking for your phone.",
+        "bottom_caption": "And you're talking on it."
+    },
+    {
+        "top_caption": "When you're trying to be serious.",
+        "bottom_caption": "And you burst out laughing."
+    },
+    {
+        "top_caption": "When you're at the dentist.",
+        "bottom_caption": "And they ask questions with tools in your mouth."
+    },
+    {
+        "top_caption": "When you see a spider.",
+        "bottom_caption": "And suddenly become an Olympic sprinter."
+    },
+    {
+        "top_caption": "When you're in a quiet room.",
+        "bottom_caption": "And your stomach decides to growl."
+    },
+    {
+        "top_caption": "When you're home alone.",
+        "bottom_caption": "And you hear a noise."
+    },
+    {
+        "top_caption": "When you start a healthy diet.",
+        "bottom_caption": "And your salad is 99% croutons."
+    },
+    {
+        "top_caption": "When you're giving a presentation.",
+        "bottom_caption": "And you forget what you were saying."
+    },
+    {
+        "top_caption": "When you're on a date.",
+        "bottom_caption": "And you spill your drink."
+    },
+    {
+        "top_caption": "When you're on a video call.",
+        "bottom_caption": "And your camera freezes on a weird face."
+    },
+    {
+        "top_caption": "When you're at the grocery store.",
+        "bottom_caption": "And you forget what you came for."
+    },
+    {
+        "top_caption": "When you're on a tight budget.",
+        "bottom_caption": "And your car needs repairs."
+    },
+    {
+        "top_caption": "When you're about to take a selfie.",
+        "bottom_caption": "And you drop your phone."
+    },
+    {
+        "top_caption": "When you're cooking for the first time.",
+        "bottom_caption": "And the smoke alarm goes off."
+    }
+]

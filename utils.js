@@ -116,6 +116,8 @@ module.exports = {
       let publicKey = signkey.getPublicKey();
       let verified = jwt.verify(token, publicKey, {})
       return verified.sub;
+    } else {
+      throw new Error(`Invalid user`)
     }
   }
 };
