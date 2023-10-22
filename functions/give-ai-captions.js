@@ -1,6 +1,7 @@
 const utils = require("../utils");
 const errors = require("../errors");
 const db = require("../db_helper");
+const controller = require("../contoller");
 
 const dotenv = require('dotenv');
 dotenv.config();
@@ -19,11 +20,7 @@ exports.handler = async function (event, context) {
   console.log(`event`, event);
   try {
     var body = JSON.parse(event.body || "{}");
-    if(process.env.USE_AI){
-
-    }
-    let randomId = crypto.randomInt(captions.length);
-    let response = captions[randomId];
+    let response = await controller.generateAICaptions(body);
     return utils.fetchSuccessResponse("success", response);
   } catch (error) {
     return utils.fetchErrorResponse(error);

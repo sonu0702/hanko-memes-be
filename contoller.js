@@ -39,7 +39,7 @@ module.exports = {
         return imageurl;
     },
     generateAICaptions: async (body) => {
-        if (!process.env.USE_AI || !process.env.USE_AI === 'false') {
+        if (!process.env.USE_AI || process.env.USE_AI === 'false') {
             let randomId = crypto.randomInt(captions.length);
             let generatedCaptions = captions[randomId];
             return generatedCaptions
